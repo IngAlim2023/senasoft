@@ -5,7 +5,7 @@ Este archivo describe la implementación de los nuevos parámetros con los cuale
 ## Autores
 - Jorge Enrique Porras Sandoval
 - Alex Jhoan Chaguendo Gonzalez
-- Dobin
+- Dovin Richard Arboleda Hoyos
 
 ## Instalación y ejecución
 
